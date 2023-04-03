@@ -1,0 +1,235 @@
+28-Jul-2022 18:09:49.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.22
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2022 16:53:56 UTC
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.22.0
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Jul-2022 18:09:49.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+28-Jul-2022 18:09:49.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+28-Jul-2022 18:09:49.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Jul-2022 18:09:49.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:09:49.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:09:49.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\logging.properties
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-1N8KK0Q
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Jul-2022 18:09:49.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Jul-2022 18:09:49.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Jul-2022 18:09:49.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:09:49.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:09:49.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 10.0\temp
+28-Jul-2022 18:09:49.203 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\php-8.1.0;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Venugopal\AppData\Local\Microsoft\WindowsApps;C:\Users\Venugopal\AppData\Local\GitHubDesktop\bin;C:\Users\Venugopal\AppData\Local\atom\bin;C:\Users\Venugopal\.dotnet\tools;C:\Program Files\Java\jdk-17.0.2\bin;;.]
+28-Jul-2022 18:09:49.667 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9494"]
+28-Jul-2022 18:09:49.698 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [767] milliseconds
+28-Jul-2022 18:09:49.755 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Jul-2022 18:09:49.756 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.22]
+28-Jul-2022 18:09:49.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:09:49.783 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:09:49.812 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:693)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1979)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:586)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1708)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:320)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:886)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5c86a017]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4834)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4972)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Venugopal\Documents\NetBeansProjects\WebApplication1\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:762)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:719)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+28-Jul-2022 18:09:49.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [66] ms
+28-Jul-2022 18:09:49.834 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs]
+28-Jul-2022 18:09:50.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] has finished in [415] ms
+28-Jul-2022 18:09:50.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\examples]
+28-Jul-2022 18:09:50.822 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\examples] has finished in [572] ms
+28-Jul-2022 18:09:50.823 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\host-manager]
+28-Jul-2022 18:09:50.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\host-manager] has finished in [62] ms
+28-Jul-2022 18:09:50.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager]
+28-Jul-2022 18:09:50.940 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] has finished in [56] ms
+28-Jul-2022 18:09:50.940 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT]
+28-Jul-2022 18:09:50.977 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] has finished in [37] ms
+28-Jul-2022 18:09:50.982 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9494"]
+28-Jul-2022 18:09:51.050 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1351] milliseconds
+28-Jul-2022 18:09:53.006 INFO [http-nio-9494-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml]
+28-Jul-2022 18:09:53.006 WARNING [http-nio-9494-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/sampleWeb] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml] has been ignored
+28-Jul-2022 18:09:53.072 INFO [http-nio-9494-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml] has finished in [66] ms
+28-Jul-2022 18:09:53.080 INFO [http-nio-9494-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sampleWeb]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:33:55.134 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
+28-Jul-2022 18:35:06.867 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
+28-Jul-2022 18:35:31.015 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
+28-Jul-2022 18:40:34.751 INFO [http-nio-9494-exec-5] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:40:34.774 INFO [http-nio-9494-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:40:34.774 WARNING [http-nio-9494-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:40:34.843 INFO [http-nio-9494-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [69] ms
+28-Jul-2022 18:40:34.863 INFO [http-nio-9494-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:43:25.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.22
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2022 16:53:56 UTC
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.22.0
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Jul-2022 18:43:25.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+28-Jul-2022 18:43:25.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+28-Jul-2022 18:43:25.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Jul-2022 18:43:25.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:43:25.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:43:25.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\logging.properties
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-1N8KK0Q
+28-Jul-2022 18:43:25.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Jul-2022 18:43:25.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Jul-2022 18:43:25.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Jul-2022 18:43:25.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:43:25.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+28-Jul-2022 18:43:25.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 10.0\temp
+28-Jul-2022 18:43:25.634 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\php-8.1.0;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Venugopal\AppData\Local\Microsoft\WindowsApps;C:\Users\Venugopal\AppData\Local\GitHubDesktop\bin;C:\Users\Venugopal\AppData\Local\atom\bin;C:\Users\Venugopal\.dotnet\tools;C:\Program Files\Java\jdk-17.0.2\bin;;.]
+28-Jul-2022 18:43:25.971 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9494"]
+28-Jul-2022 18:43:25.995 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [585] milliseconds
+28-Jul-2022 18:43:26.052 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Jul-2022 18:43:26.052 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.22]
+28-Jul-2022 18:43:26.061 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml]
+28-Jul-2022 18:43:26.092 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/sampleWeb] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml] has been ignored
+28-Jul-2022 18:43:26.627 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\sampleWeb.xml] has finished in [566] ms
+28-Jul-2022 18:43:26.627 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:43:26.628 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:43:26.658 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [31] ms
+28-Jul-2022 18:43:26.659 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs]
+28-Jul-2022 18:43:26.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] has finished in [33] ms
+28-Jul-2022 18:43:26.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\examples]
+28-Jul-2022 18:43:27.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\examples] has finished in [481] ms
+28-Jul-2022 18:43:27.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\host-manager]
+28-Jul-2022 18:43:27.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\host-manager] has finished in [37] ms
+28-Jul-2022 18:43:27.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager]
+28-Jul-2022 18:43:27.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] has finished in [34] ms
+28-Jul-2022 18:43:27.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT]
+28-Jul-2022 18:43:27.277 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] has finished in [32] ms
+28-Jul-2022 18:43:27.281 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9494"]
+28-Jul-2022 18:43:27.376 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1380] milliseconds
+28-Jul-2022 18:43:29.721 INFO [http-nio-9494-exec-6] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:43:29.757 INFO [http-nio-9494-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:43:29.758 WARNING [http-nio-9494-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:43:29.798 INFO [http-nio-9494-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [42] ms
+28-Jul-2022 18:43:29.806 INFO [http-nio-9494-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:43:53.604 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
+28-Jul-2022 18:47:19.653 INFO [http-nio-9494-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:47:19.665 INFO [http-nio-9494-exec-20] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:47:19.668 WARNING [http-nio-9494-exec-20] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:47:19.694 INFO [http-nio-9494-exec-20] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [29] ms
+28-Jul-2022 18:47:19.706 INFO [http-nio-9494-exec-17] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:49:10.866 INFO [http-nio-9494-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:49:10.880 INFO [http-nio-9494-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:49:10.881 WARNING [http-nio-9494-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:49:10.907 INFO [http-nio-9494-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [27] ms
+28-Jul-2022 18:49:10.913 INFO [http-nio-9494-exec-22] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:50:07.892 INFO [http-nio-9494-exec-28] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:50:08.407 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:50:16.174 INFO [http-nio-9494-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:50:16.174 WARNING [http-nio-9494-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:50:16.214 INFO [http-nio-9494-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [40] ms
+28-Jul-2022 18:50:16.219 INFO [http-nio-9494-exec-28] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:50:28.068 INFO [http-nio-9494-exec-35] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:50:28.087 INFO [http-nio-9494-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:50:28.087 WARNING [http-nio-9494-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:50:28.111 INFO [http-nio-9494-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [23] ms
+28-Jul-2022 18:50:28.117 INFO [http-nio-9494-exec-25] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:53:30.925 INFO [http-nio-9494-exec-44] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:53:30.945 INFO [http-nio-9494-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:53:30.946 WARNING [http-nio-9494-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:53:30.984 INFO [http-nio-9494-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [39] ms
+28-Jul-2022 18:53:30.991 INFO [http-nio-9494-exec-39] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:53:49.166 INFO [http-nio-9494-exec-37] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:53:49.685 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:53:49.692 INFO [http-nio-9494-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:53:49.692 WARNING [http-nio-9494-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:53:49.729 INFO [http-nio-9494-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [37] ms
+28-Jul-2022 18:53:49.732 INFO [http-nio-9494-exec-46] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:54:24.590 INFO [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:54:24.603 INFO [http-nio-9494-exec-33] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:54:24.620 WARNING [http-nio-9494-exec-33] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:54:24.647 INFO [http-nio-9494-exec-33] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [42] ms
+28-Jul-2022 18:54:24.651 INFO [http-nio-9494-exec-36] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:54:35.088 INFO [http-nio-9494-exec-47] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:54:35.111 INFO [http-nio-9494-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:54:35.114 WARNING [http-nio-9494-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:54:35.142 INFO [http-nio-9494-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [31] ms
+28-Jul-2022 18:54:35.148 INFO [http-nio-9494-exec-50] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:54:49.714 INFO [http-nio-9494-exec-49] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:54:49.738 INFO [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:54:49.740 WARNING [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:54:49.764 INFO [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [26] ms
+28-Jul-2022 18:54:49.765 INFO [http-nio-9494-exec-46] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:54:57.424 INFO [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:54:57.439 INFO [http-nio-9494-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:54:57.441 WARNING [http-nio-9494-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:54:57.461 INFO [http-nio-9494-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [22] ms
+28-Jul-2022 18:54:57.478 INFO [http-nio-9494-exec-50] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:56:38.789 INFO [http-nio-9494-exec-42] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 18:56:38.811 INFO [http-nio-9494-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml]
+28-Jul-2022 18:56:38.812 WARNING [http-nio-9494-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Jul-2022 18:56:38.840 INFO [http-nio-9494-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\Catalina\localhost\WebApplication1.xml] has finished in [30] ms
+28-Jul-2022 18:56:38.844 INFO [http-nio-9494-exec-64] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+28-Jul-2022 18:59:27.246 INFO [http-nio-9494-exec-68] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+28-Jul-2022 19:09:09.590 INFO [http-nio-9494-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:09:09.659 INFO [http-nio-9494-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 19:09:10.113 INFO [http-nio-9494-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:09:10.161 INFO [http-nio-9494-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 19:19:42.095 INFO [http-nio-9494-exec-89] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:19:44.239 INFO [http-nio-9494-exec-89] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 19:19:44.577 INFO [http-nio-9494-exec-92] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:19:46.642 INFO [http-nio-9494-exec-92] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 19:21:28.938 INFO [http-nio-9494-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:21:29.001 INFO [http-nio-9494-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 19:40:04.750 INFO [http-nio-9494-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] has started
+28-Jul-2022 19:40:04.803 INFO [http-nio-9494-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/sampleWeb] is completed
+28-Jul-2022 20:02:15.041 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
